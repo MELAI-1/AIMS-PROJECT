@@ -1,6 +1,6 @@
 # AIMS-PROJECT
 This repository contains the code and resources for my Master's thesis research
-.
+```
 ├── README.md                    # Project description and repository information
 ├── src/                         # Source code
 │   ├── data_processing/         # Scripts for data processing
@@ -20,3 +20,4 @@ This repository contains the code and resources for my Master's thesis research
 ├── requirements.txt             # Python dependencies
 ├── environment.yml              # Conda environment configuration 
 └── .gitignore                   # Files to be ignored by git
+```
